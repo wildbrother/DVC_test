@@ -1,4 +1,0 @@
-[core]
-    remote = datas
-['remote "datas"']
-    url = ../dvc-test-remote
