@@ -1,4 +1,0 @@
-[core]
-    remote = database
-['remote "database"']
-    url = /Users/joohoonpark/DataBase
